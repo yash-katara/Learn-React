@@ -55,7 +55,7 @@ function App() {
            />
            <button
            onClick={copyPasswordtoclipboard}
-           className='outline-none bg-blue-100 text-white px-3 py-0.5 shrink-0'>copy</button>
+           className='outline-none bg-white-100 text-white px-3 py-0.5 shrink-0'>copy</button>
            </div>
         <div className="flex text-sm gap-x-2">
           <div className='flex items-center gap-x-2'>
@@ -88,7 +88,7 @@ function App() {
           >Generate Password</button>
         </div>
         <div className='text-center my-3'>
-          <p className='text-sm text-gray-500'>Made with ❤️ by yash Katara</p>
+          <p className='text-sm text-gray-500'>Made  by yash Katara</p>
 
       </div>
        </div>
